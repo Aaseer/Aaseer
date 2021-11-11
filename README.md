@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aaseer
 - 👀 I’m interested in python
-- 🌱 I’m currently learning discord.js, node.js and python
+- 🌱 I’m currently learning Python (Tkinter and gonna start cryptography and PyQt5) and C++.
 - 💞️ I’m looking to collaborate on a discord bot
 - 📫 How to reach me email: shadowboltplayer@gmail.com
 
