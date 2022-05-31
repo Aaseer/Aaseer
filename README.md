@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aaseer
 - 👀 I’m interested in python
-- 🌱 I’m currently learning Python (Tkinter and gonna start cryptography and PyQt5) and C++.
+- 🌱 I’m currently learning Python (Sockets, Game Dev and Machine Learning) and C#
 - 💞️ I’m looking to collaborate on nothing yet.
 - 📫 How to reach me email: shadowboltplayer@gmail.com
 
